@@ -14,5 +14,5 @@ app.use('/todos', todosRouter);
 
 // 서버 시작
 app.listen(PORT, () => {
-  console.log(`Server running on http://localhost:${PORT}`);
+  console.log(`Server running on https://testv3-1.onrender.com:${PORT}`);
 });

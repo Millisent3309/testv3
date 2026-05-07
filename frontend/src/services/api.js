@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_BASE_URL = 'http://localhost:5000/todos';
+const API_BASE_URL = 'https://testv3-1.onrender.com/todos';
 
 // 모든 할 일 조회
 export const getTodos = async () => {
